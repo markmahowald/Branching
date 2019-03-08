@@ -8,6 +8,5 @@ This will list ways to create and manage branches.
 
 `git chreckout BRANCH_NAME` - switches us into the branch BRANCH_NAME.
 
-`git checkout -b BRANCH_NAME` - creates a branch and checks it out in one comand. 
-
 Be careful of letting master get ahead of your branch 
+

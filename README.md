@@ -8,3 +8,5 @@ This will list ways to create and manage branches.
 
 `git chreckout BRANCH_NAME` - switches us into the branch BRANCH_NAME.
 
+
+Be careful of MASTER getting ahead of your branch. 
